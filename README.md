@@ -8,7 +8,7 @@
 > **Need a simple BMI App?** <br>
 > Let BMI Calculator be that app for you.
 
-![Finished App](https://github.com/Vishakha2697/BMI-Calculator/images/bmi-calc-demo.gif)
+
 
 
 ## Getting Started
