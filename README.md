@@ -30,7 +30,7 @@ A step by step procedure that explains you have to get your development environm
 
   Find a location on your computer where you want to store the project. Now, run the following command to pull the project from GitHub and create a copy of it. And *cd* into the project.
   ```
-  https://github.com/Vishakha2697/Quizzler
+  https://github.com/Vishakha2697/BMI-Calculator
   ```
 
 ## Author
