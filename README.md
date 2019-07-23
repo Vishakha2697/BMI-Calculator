@@ -1,14 +1,10 @@
 
-## BMI Calculator
+## BMI CALCULATOR 
 
-**BMI Calculator** This is a normal Body Mass Index Calculator. It calculates the BMI for both the genders and advice to maintain your BMI accordingly. It is a multi screen app with simple functionality but full-on custom styling.
-
-
+**BMI Calculator** BMI Calculator This is a normal Body Mass Index Calculator. It calculates the BMI for both the genders and advice to maintain your BMI accordingly. It is a multi screen app with simple functionality but full-on custom styling.
 
 > **Need a simple BMI App?** <br>
 > Let BMI Calculator be that app for you.
-
-
 
 
 ## Getting Started
@@ -34,9 +30,9 @@ A step by step procedure that explains you have to get your development environm
 
   Find a location on your computer where you want to store the project. Now, run the following command to pull the project from GitHub and create a copy of it. And *cd* into the project.
   ```
- https://github.com/Vishakha2697/BMI-Calculator
+  https://github.com/Vishakha2697/Quizzler
   ```
 
 ## Author
 
-***Vishakha**  ([Vishakha2697](https://github.com/Vishakha2697))
+* **Vishakha**  ([Vishakha2697](https://github.com/Vishakha2697))
