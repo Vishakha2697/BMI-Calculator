@@ -39,4 +39,4 @@ A step by step procedure that explains you have to get your development environm
 
 ## Author
 
-* **Vishakha**  ([Vishakha2697](https://github.com/Vishakha2697))
+***Vishakha**  ([Vishakha2697](https://github.com/Vishakha2697))
